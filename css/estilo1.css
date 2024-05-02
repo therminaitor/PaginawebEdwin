@@ -1,0 +1,41 @@
+body{
+    background:linear-gradient(to left, #3C5B6F, #B5C18E);
+
+h1{
+   color:black;
+   text-align:center;
+   background-image: linear-gradient(to left, #F5DAD2, #FCFFE0, #BACD92, #75A47F, #4F6F52);
+   font-size:60px;
+   padding:20px 20xp;
+}
+
+h2{
+   color:white;
+   text-align:center;
+   font-size:60px;
+}
+
+h3{
+   color:yellow;
+   font-size:30px;
+   border:  1px solid red
+}
+
+img{
+    text-align:center;
+}
+
+h4{
+   color:green;
+     font-size:30px;
+}
+
+h5{
+   color:green;
+     font-size:30px;
+}
+
+
+
+
+
